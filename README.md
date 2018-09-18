@@ -6,6 +6,10 @@ This repository contains a collection of notebooks with examples of various data
 
 For general EDA plotting, I prefer to use the Seaborn library. This notebook contains a wide variety of different plots that come in handy for exploring and visualizing data sets
 
+## Matplotlib
+
+Though Seaborn is a really nice tool, it's not necessarily as flexible as I'd like for certain tasks. Using Matplotlib lends a greater degree of control over plotting and I've found myself using it much more recently. Thus, this notebook contains similar info to the Seaborn notebook, but done with the base library. 
+
 ## Cleaning
 
 Various examples for cleaning data, including but not limited to:
